@@ -41,7 +41,7 @@
 
 #### 抹茶Matcha（排本fate通知）
 
-> FFCafe出品，[原仓库](https://github.com/thewakingsands/matcha)
+> FFCafe出品，[源仓库](https://github.com/thewakingsands/matcha)
 >
 > <details><summary>提供的功能：</summary>
 >

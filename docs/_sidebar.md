@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 * [必需插件](README.md?id=【必需插件】)
 
     * [FFXIV解析插件](README.md?id=FFXIV解析插件)
