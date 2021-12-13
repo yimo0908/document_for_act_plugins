@@ -9,7 +9,7 @@
     * [抹茶](README.md?id=抹茶matcha（排本fate通知）)
     * [Trn](README.md?id=triggernometry（高级触发器）)
     * [ping](README.md?id=网络延迟显示)
-    * [Fox-TTS](README.md?id=fox语音合成)
+    * [TTS](README.md?id=TTS插件)
 
 * [其他插件](README.md?id=【其他插件】)
 
