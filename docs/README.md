@@ -77,7 +77,7 @@
 >
 > Webhook（需要一定的使用技巧）
 >
-> - [优雷卡自动史记]()
+> - [优雷卡自动史记](https://bbs.nga.cn/read.php?tid=28547954)
 > - ...
 >
 > </details> 
